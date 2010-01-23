@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Log-Dispatch-Configurator-Hardwired.t
+lib/Log/Dispatch/Configurator/Hardwired.pm
